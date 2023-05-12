@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "apis1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ApiManagement/service/grupo7Jugaton/apis/grupo7Jugaton",
+      "type": "apis.azure"
+    }
+  }
+}
